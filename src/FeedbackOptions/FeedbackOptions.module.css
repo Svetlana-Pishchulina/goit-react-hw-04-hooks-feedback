@@ -1,0 +1,17 @@
+.list {
+  display: inline-flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.listItem {
+  margin-right: 20px;
+}
+
+.button {
+  width: 80px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 20px;
+  box-shadow: 3px 2px 2px gray;
+}
